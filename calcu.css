@@ -1,0 +1,51 @@
+#main{
+    background: silver;
+    width: 340px;
+    height: 431px;
+    margin-left: 585px;
+}
+#screen{
+    width: 312px;
+    height: 55px;
+    margin-left: 12px;
+    padding-top: 12px;
+    pointer-events: none;
+}
+#data{
+    width: 310px;
+    height: 52px;
+    
+}
+.row{
+    width: 340px;
+}
+.btn{
+    color: white;
+    background: rgb(37, 36, 36);
+    width: 54px;
+    height: 50px;
+    margin-left: 22px;
+    margin-top: 20px;
+}
+#eq{
+    color: white;
+    background: tomato;
+    width: 75px;
+    height: 50px;
+    margin-left: 54px;
+    margin-top: 20px;
+    margin-right: 28px;
+}
+#clr{
+    color: white;
+    background: rgb(173, 3, 40);
+    width: 54px;
+    height: 50px;
+    margin-left: 22px;
+    margin-top: 20px;
+}
+#pe{
+    font-size: 35px;
+    margin-left: 55px;
+    margin-top: 35px;
+}
